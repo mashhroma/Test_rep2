@@ -1,6 +1,6 @@
 # Seminar_1
 
-# Hello Git
+## Hello Git
 
 Hello local
 
